@@ -1,0 +1,12 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.notesapp.and.notesapp.EditorActivity">
+    <item
+        android:id="@+id/action_delete"
+        android:orderInCategory="100"
+        android:title="@string/action_delete"
+        android:icon="@drawable/ic_action_delete"
+        app:showAsAction="always" />
+</menu>
+<!-- From: file:/E:/AndroidSpace/NotesApp/app/src/main/res/menu/menu_editor.xml -->
